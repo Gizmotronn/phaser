@@ -8,7 +8,7 @@ url: ""
 
 display_footer: inital  #change this to 'none' if you want to hide the footer copyright text
 
-parallax_image_one: assets/images/twoscreen.jpg # These are the images used for the parallax background
+parallax_image_one: https://www.anysoftwaretools.com/wp-content/uploads/macbook-pro-monitor-keyboard-iphone.pngg # These are the images used for the parallax background
 parallax_image_two: assets/images/startup3.jpg
 
 project_one: "Stellarios"
