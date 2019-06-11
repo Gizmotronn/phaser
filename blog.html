@@ -1,0 +1,29 @@
+---
+layout: medium-feed
+---
+
+
+<h2 style="text-align:center"> Latest Blog Posts </h2>
+<p style="text-align:center;"><a class="waves-effect waves-light btn green darken-2" target="_blank" href="{{site.medium}}"><i class="material-icons right">library_books</i>Read more at Medium</a></p>
+<div class="fixed-action-btn horizontal">
+  <a class="btn-floating btn-large waves-effect waves-default pulse" href="/">
+    <i class="material-icons">arrow_back</i>
+  </a>
+</div>
+
+
+{% for e in site.medium_posts %}
+
+<div class="row">
+  <div class="col s10 offset-s1">
+
+
+    <h4 style="text-align:center"><b>{{e.title}}</b></h4>
+    <p style="text-align:justify">{{e.feed_content}}</p>
+  </div>
+</div>
+
+{% endfor %}
+  <p style="text-align: center"><a class="waves-effect waves-light btn green darken-2" target="_blank" href="{{site.medium}}"><i class="material-icons right">library_books</i>Read more at Medium</a></p>
+
+</div>
