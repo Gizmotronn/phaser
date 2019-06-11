@@ -34,7 +34,7 @@ project_four_url: https://github.com/jameshamann/jekyll-material-theme
 project_four_icon: restaurant
 
 portfolio_heading: Portfolio
-portfolio_type: cards
+portfolio_type: carousel
 
 syntax_highlighting: true
 # Skill icons from https://konpa.github.io/devicon/
@@ -86,7 +86,7 @@ url: http://localhost:4000/ #the url of your site
 tag_manager_id: # This looks something like GTM-XXXXXXX
 google_analytics_tracking_id: # This looks something like UA-000000000-0 Head over to https://analytics.google.com/ to setup.
 
-cookies_banner: show # The value "show" will show the cookies banner, the value "none" will hide the banner.
+cookies_banner: none # The value "show" will show the cookies banner, the value "none" will hide the banner.
 
 cookie_accept_message: Thanks!
 
