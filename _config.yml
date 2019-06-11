@@ -65,7 +65,7 @@ colored: colored # Leave blank for black and white icons
 project_button: Github
 
 github: https://github.com/IrisDroidology
-medium: https://medium.com/acord-robotics
+medium: https://medium.com/@limodroid
 
 baseurl: # if your site is located at /blog or /home, enter it here, otherwise leave it empty
 url: http://irisdroidology.github.io/opus #the url of your site
