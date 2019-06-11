@@ -1,14 +1,15 @@
 {% include head.html %}
-
-  <div id="home" class="section scrollspy">
+<div>
   <div id="index-banner" class="parallax-container">
     <div class="section no-pad-bot">
       <div class="container">
         <br><br>
-        <h1 class="header center teal-text text-lighten-2">{{ site.title }}</h1>
+        <h1 id="home" class="header center teal-text text-lighten-2 section scrollspy">{{ site.title }}</h1>
         <div class="row center">
           <h5 class="header col s12 light">{{ site.description }}</h5>
         </div>
+        <p style="text-align:center;"><a class="waves-effect waves-light btn grey darken-3 z-depth-3" href="/blog/index.html"><i class="material-icons right">library_books</i>Blog</a></p>
+
         <br><br>
 
       </div>
@@ -25,9 +26,9 @@
 <div class="container" style="padding:20px;">
   <div id="portfolio" class="section scrollspy">
 
-  <h3 style="text-align:center;">{{site.portfolio_heading}}</h3>
+  <h3 style="text-align:center;">Portfolio</h3>
 
-{% include portfolio_{{site.portfolio_type}}.html %}
+{% include portfolio_cards.html %}
 
 </div>
 
@@ -41,9 +42,6 @@
  </div>
 </div>
 
-
-
-
   <div class="parallax-container valign-wrapper">
     <div class="section no-pad-bot">
       <div class="container">
@@ -56,12 +54,7 @@
   </div>
 
 
-<div class="container" style="padding:20px;">
-  <div id="blog" class="section scrollspy">
-  <h3 style="text-align:center;">Blog</h3>
-  {% include blog-feed.html %}
-</div>
-</div>
+
 
 <div class="container" style="padding:20px;">
   <div id="contact" class="section scrollspy">
@@ -74,5 +67,5 @@
 
 
 {% include nav-burger.html %}
-
+{% include google_analytics.html %}
 {% include footer.html %}
