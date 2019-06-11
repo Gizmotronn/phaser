@@ -22,20 +22,8 @@ project_two_url: http://allianceofdroids.org.au
 project_button: Portal
 project_two_icon: photo_camera
 
-
-project_three: Third Project
-project_three_description: Describe your project!
-project_three_url: https://github.com/jameshamann/jekyll-material-theme
-project_three_icon: hotel
-
-
-project_four: Fourth Project
-project_four_description: Describe your project!
-project_four_url: https://github.com/jameshamann/jekyll-material-theme
-project_four_icon: restaurant
-
 portfolio_heading: Portfolio
-portfolio_type: carousel #cards or carousel
+portfolio_type: cards #cards or carousel
 
 syntax_highlighting: true
 # Skill icons from https://konpa.github.io/devicon/
