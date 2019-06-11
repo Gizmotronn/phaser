@@ -22,6 +22,16 @@ project_two_url: http://allianceofdroids.org.au
 project_button: Portal
 project_two_icon: photo_camera
 
+project_three: Life Size R2-D2 Replica
+project_three_description: I'm building a life-size R2-D2 
+project_three_url: http://gitlab.com/acord-robotics/robodev/lifesizer2/
+project_three_icon: photo_camera
+
+project_four: Mushlantis - A Minecraft World
+project_four_description: A Minecraft World
+project_three_url: http://gitlab.com/irisdroidology/minecraft-mushlantos
+project_four_icon: photo_camera
+
 portfolio_heading: Portfolio
 portfolio_type: cards #cards or carousel
 
