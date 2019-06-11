@@ -8,7 +8,7 @@ url: ""
 
 display_footer: inital  #change this to 'none' if you want to hide the footer copyright text
 
-parallax_image_one: assets/images/photo-1510519138101-570d1dca3d66jpg # These are the images used for the parallax background
+parallax_image_one: assets/images/photo-1510519138101-570d1dca3d66.jpg # These are the images used for the parallax background
 parallax_image_two: assets/images/run-debug-vs-code.png
 
 project_one: "Stellarios"
