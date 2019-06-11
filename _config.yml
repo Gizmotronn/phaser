@@ -9,7 +9,7 @@ url: ""
 display_footer: inital  #change this to 'none' if you want to hide the footer copyright text
 
 parallax_image_one: assets/images/photo-1510519138101-570d1dca3d66.jpg # These are the images used for the parallax background
-parallax_image_two: assets/images/startup3.jpg
+parallax_image_two: assets/images/run-debug-vs-code.png
 
 project_one: "Stellarios"
 project_one_description: Stellarios is a suite of games that ACORD has created as well as applications to control our robots. Available to all ACORD members.
@@ -23,12 +23,12 @@ project_button: Portal
 project_two_icon: photo_camera
 
 project_three: Life Size R2-D2 Replica
-project_three_description: I'm building a life-size R2-D2 
+project_three_description: I'm building a life-size R2-D2. Thanks to the [R2-D2 Builders Club](http://astromech.net), the blueprints (CS:R) are movie-accurate. This R2 unit will be controlled via an Android/iOS app called R2-Touch by [Curious Marc](http://curiousmarc.com). I've built other droids before, including a steampunk-themed R2 (Sp-D2), however this is the first one that I've built that will have electronics.
 project_three_url: http://gitlab.com/acord-robotics/robodev/lifesizer2/
 project_three_icon: photo_camera
 
 project_four: Mushlantis - A Minecraft World
-project_four_description: A Minecraft World
+project_four_description: Mushlantis is a world in Minecraft that I've been playing for three years. I post videos on Mushlantis once a week and am currently working on building a village in a Mushroom Biome.
 project_three_url: http://gitlab.com/irisdroidology/minecraft-mushlantos
 project_four_icon: photo_camera
 
