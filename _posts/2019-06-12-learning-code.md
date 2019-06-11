@@ -59,7 +59,7 @@ else {
 I have experience in Python, especially in creating text-based games (for example Pythons of Mars). I hope to expand my knowledge of Python after completing C++ & C#.
 
 # Thanks for reading
-This post is just one of many on this site. Why not check out more while you're here? Check out the rest of [my blog.](http://irisdroidology.github.io/opus/#blog
+This post is just one of many on this site. Why not check out more while you're here? Check out the rest of [my blog.](http://irisdroidology.github.io/opus/#blog)
 
 ACORD, my robotics company, is a not-for-profit and we're currently working on a robot to reduce suicide levels in teenagers with disabilities. Why not support us? Check out [our patreon](http://acord.tech/support-us)
 
