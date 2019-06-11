@@ -23,7 +23,7 @@ project_button: Portal
 project_two_icon: photo_camera
 
 project_three: Life Size R2-D2 Replica
-project_three_description: I'm building a life-size R2-D2. Thanks to the [R2-D2 Builders Club](http://astromech.net), the blueprints (CS:R) are movie-accurate. This R2 unit will be controlled via an Android/iOS app called R2-Touch by [Curious Marc](http://curiousmarc.com). I've built other droids before, including a steampunk-themed R2 (Sp-D2), however this is the first one that I've built that will have electronics.
+project_three_description: I'm building a life-size R2-D2. Thanks to the R2-D2 Builders Club - http://astromech.net, the blueprints (CS:R) are movie-accurate. This R2 unit will be controlled via an Android/iOS app called R2-Touch by Curious Marc - http://curiousmarc.com. I've built other droids before, including a steampunk-themed R2 (Sp-D2), however this is the first one that I've built that will have electronics.
 project_three_url: http://gitlab.com/acord-robotics/robodev/lifesizer2/
 project_three_icon: photo_camera
 
@@ -49,16 +49,18 @@ skills:
   - name: css3
   - name: firefox
   - name: git
+  - name: github
   - name: gitlab
   - name: html5
   - name: javascript
   - name: linux
+  - name: photoshop
   - name: php
   - name: python
   - name: slack
   - name: visualstudio
 
-icon_size: 40 # font-size of icons in px
+icon_size: 35 # font-size of icons in px
 colored: colored # Leave blank for black and white icons and colored for coloured icons
 
 project_button: Github
