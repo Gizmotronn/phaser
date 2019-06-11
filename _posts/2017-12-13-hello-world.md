@@ -1,46 +1,53 @@
 ---
 layout: post
 title:  "Hello World!"
-date:   2017-12-04 21:15:05 +0000
-image: https://starwarsblog.starwars.com/wp-content/uploads/2018/08/star-wars-r2-d2-tall-image.jpg
+date:   2019-06-11 21:15:05 +0000
+image: https://www.anysoftwaretools.com/wp-content/uploads/macbook-pro-monitor-keyboard-iphone.png
 
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-Jekyll also offers powerful support for code snippets:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DaL0C6QLxyY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+# Background
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+In January 2016, I created my youtube channel. The first video I posted on it, The Steampunk Droids, currently has ~350 views on youtube and was basically a "highlights video" of building my first robot/droid, Sp-D2. I changed the name to Droidology in 2017, and that was the name it stayed as until March this year.
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+The reason for this was because I had already gotten into trouble when trying to trademark ACORD under its previous name "droid", as droid was trademarked by Disney. I asked one of my mates what I should switch the channel name to, and he came up with an answer right away -
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+> You should call yourself "Limology"
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+And that was that. At least for 2 months, Limology was my title on Youtube. Until yesterday, when I determined that Limology wasn't:
 
-Jekyll also offers powerful support for code snippets:
+- Professional enough (as eventually it would be rebranded as part of the ACORD umbrella)
+- Cool enough (people like Iskall85, Rendog, etc had much better names, and I couldn't see myself getting into Hermitcraft with the name Limology)
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+The second reason was the most pressing at the time, but those were the 2 reasons why I decided to change the name.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+# And the winner is...
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+> Hold on...I've got the best name!
+
+You may know I'm working on a science fiction story called [Star Sailors](http://github.com/acord-robotics/starsailors). The main character in the book is called Opus. Opus is also the name of a robot in a beautiful mobile rpg. I decided Opus would be my name.
+
+But Opus on its own wouldn't be enough. I'm not really a numbers person (unless we're talking sports), so I racked my brains to think about what I do on my channel. I showcase robots occasionally, and I often refer to myself as a "droid" (fair enough, considering my previous name). 
+
+> What about "OpusTheRobot?"
+
+And that was that.
+
+# What's the plan for youtube
+
+I'm going to be doing another post for this soon, but I will say this:
+
+- We're going to have redstone showcases for Minecraft JAVA edition
+- We're going to try and release 3 Mushlantis (Minecraft Bedrock Surival LP) episodes each month
+- Just Cause 3, Starbound and other games will have episodes on average once a month
+- In the holidays, we'll try and have 1 video each day. We have ~16 days, so that's 8 videos -
+  - 4 Mushlantis episodes
+  - 2 redstone showcases
+  - 2 other videos
+- In the summer holidays, we'll have 1 video every 2 days. 
+- This means we could get 30-40 episodes of Mushlantis by the end of the year!
+
+Check out the next post for more info
