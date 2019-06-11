@@ -42,32 +42,21 @@ skills:
   - name: android
   - name: apple
   - name: atom
-  - name: bitbucke
+  - name: bitbucket
   - name: c
   - name: cplusplus
   - name: csharp
   - name: css3
-  - name: drupal
-  - name: facebook
   - name: firefox
   - name: git
-  - name: github
   - name: gitlab
-  - name: google
   - name: html5
-  - name: jav
   - name: javascript
   - name: linux
   - name: php
   - name: python
-  - name: pycharm
   - name: slack
-  - name: sourcetree
-  - name: twitter
-  - name: typescript
-  - name: ubuntu
   - name: visualstudio
-  - name: windows8
   - name: wordpress
 
 icon_size: 50 # font-size of icons in px
@@ -79,7 +68,7 @@ github: https://github.com/IrisDroidology
 medium: https://medium.com/acord-robotics
 
 baseurl: # if your site is located at /blog or /home, enter it here, otherwise leave it empty
-url: http://localhost:4000/ #the url of your site
+url: http://irisdroidology.github.io/opus #the url of your site
 
 # Google tracking, if both are filled, tag manager will prevail. Set up GA through GTM in that case
 tag_manager_id: # This looks something like GTM-XXXXXXX
@@ -99,3 +88,6 @@ plugins:
   - jekyll-feed
   - jekyll-assets
   - jekyll-minifier
+  
+collections:
+  - medium_posts
