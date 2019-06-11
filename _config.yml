@@ -14,7 +14,7 @@ parallax_image_two: assets/images/startup3.jpg
 project_one: "Stellarios"
 project_one_description: by ACORD Robotics
 project_one_url: https://gitlab.com/acord-robotics
-project_one_icon: /assets/images/laptop.png
+project_one_icon: gitlab
 
 project_two: Second Project
 project_two_description: Describe your project!
@@ -34,7 +34,7 @@ project_four_url: https://github.com/jameshamann/jekyll-material-theme
 project_four_icon: restaurant
 
 portfolio_heading: Portfolio
-portfolio_type: carousel
+portfolio_type: cards
 
 syntax_highlighting: true
 # Skill icons from https://konpa.github.io/devicon/
