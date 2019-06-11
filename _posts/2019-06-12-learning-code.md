@@ -61,7 +61,7 @@ I have experience in Python, especially in creating text-based games (for exampl
 # Thanks for reading
 This post is just one of many on this site. Why not check out more while you're here? Check out the rest of [my blog.](http://irisdroidology.github.io/opus/#blog)
 
-ACORD, my robotics company, is a not-for-profit and we're currently working on a robot to reduce suicide levels in teenagers with disabilities. Why not support us? Check out [our patreon](http://acord.tech/support-us)
+ACORD, my robotics company, is a not-for-profit and we're currently working on a robot to reduce suicide levels in teenagers with disabilities. Why not support us? Check out [our patreon.](http://acord.tech/support-us)
 
 I'm a high school student and I'm about to go into university. I build websites for a living, and why not get one from me? It will at least help me when I'm at uni - [support me](http://acord.tech/support-limo).
 
