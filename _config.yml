@@ -35,7 +35,7 @@ project_four_url: https://github.com/jameshamann/jekyll-material-theme
 project_four_icon: restaurant
 
 portfolio_heading: Portfolio
-portfolio_type: cards
+portfolio_type: carousel #cards or carousel
 
 syntax_highlighting: true
 # Skill icons from https://konpa.github.io/devicon/
