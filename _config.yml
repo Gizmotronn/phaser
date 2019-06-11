@@ -12,8 +12,8 @@ parallax_image_one: assets/images/startup3.jpg # These are the images used for t
 parallax_image_two: assets/images/startup3.jpg
 
 project_one: "Stellarios"
-project_one_description: by ACORD Robotics
-project_one_url: https://gitlab.com/acord-robotics
+project_one_description: Stellarios is a suite of games that ACORD has created as well as applications to control our robots. Available to all ACORD members.
+project_one_url: https://gitlab.com/acord-robotics/robodev/stellarios
 project_one_icon: gitlab
 
 project_two: Second Project
