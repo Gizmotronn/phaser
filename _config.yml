@@ -16,9 +16,10 @@ project_one_description: Stellarios is a suite of games that ACORD has created a
 project_one_url: https://gitlab.com/acord-robotics/robodev/stellarios
 project_one_icon: gitlab
 
-project_two: Second Project
-project_two_description: Describe your project!
-project_two_url: https://github.com/jameshamann/jekyll-material-theme
+project_two: ACORD Robotics
+project_two_description: ACORD is an Australian Robotics company that I founded with my cousin, Nicholas. We create stunning robots for uses in all fields, including geology, aeronautics, and mental health. We also create great quality games, for example Star Sailors & Pythons of Mars.
+project_two_url: http://allianceofdroids.org.au
+project_button: Portal
 project_two_icon: photo_camera
 
 
