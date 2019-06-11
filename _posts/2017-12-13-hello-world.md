@@ -6,9 +6,6 @@ image: https://www.anysoftwaretools.com/wp-content/uploads/macbook-pro-monitor-k
 
 ---
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DaL0C6QLxyY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 # Background
 
 In January 2016, I created my youtube channel. The first video I posted on it, The Steampunk Droids, currently has ~350 views on youtube and was basically a "highlights video" of building my first robot/droid, Sp-D2. I changed the name to Droidology in 2017, and that was the name it stayed as until March this year.
@@ -16,6 +13,8 @@ In January 2016, I created my youtube channel. The first video I posted on it, T
 The reason for this was because I had already gotten into trouble when trying to trademark ACORD under its previous name "droid", as droid was trademarked by Disney. I asked one of my mates what I should switch the channel name to, and he came up with an answer right away -
 
 > You should call yourself "Limology"
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DaL0C6QLxyY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 And that was that. At least for 2 months, Limology was my title on Youtube. Until yesterday, when I determined that Limology wasn't:
 
