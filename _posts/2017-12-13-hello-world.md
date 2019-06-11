@@ -5,7 +5,9 @@ date:   2019-06-11 21:15:05 +0000
 image: https://www.anysoftwaretools.com/wp-content/uploads/macbook-pro-monitor-keyboard-iphone.png
 
 ---
+Hi there! My name is Liam, also known as OpusTheRobot. I'm an Australian game and website developer. This website is home to all my projects that I'm working on as well as my personal blog. I'll also be talking about my youtube stuff here.
 
+# Youtube
 In January 2016, I created my youtube channel. The first video I posted on it, The Steampunk Droids, currently has ~350 views on youtube and was basically a "highlights video" of building my first robot/droid, Sp-D2. I changed the name to Droidology in 2017, and that was the name it stayed as until March this year.
 
 The reason for this was because I had already gotten into trouble when trying to trademark ACORD under its previous name "droid", as droid was trademarked by Disney. I asked one of my mates what I should switch the channel name to, and he came up with an answer right away -
@@ -48,3 +50,6 @@ I'm going to be doing another post for this soon, but I will say this:
 - This means we could get 30-40 episodes of Mushlantis by the end of the year!
 
 Check out the next post for more info
+
+# Mushlantis
+https://mcpedl.com/wp-content/uploads/2018/08/island-mushroom-2.jpg
