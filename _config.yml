@@ -1,7 +1,7 @@
-title: Your awesome title
-name: Your Name
-email: your-email@example.com
-description: Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+title: OpusTheRobot
+name: Liam Arbuckle
+email: opus@allianceofdroids.org.au
+description: Hi there! I'm a youtuber and game developer. Welcome to my site
 
 baseurl: "/blog"
 url: ""
@@ -11,9 +11,9 @@ display_footer: inital  #change this to 'none' if you want to hide the footer co
 parallax_image_one: assets/images/startup3.jpg # These are the images used for the parallax background
 parallax_image_two: assets/images/startup3.jpg
 
-project_one: "First Project"
-project_one_description: Describe your project!
-project_one_url: https://github.com/jameshamann/jekyll-material-theme
+project_one: "Stellarios"
+project_one_description: by ACORD Robotics
+project_one_url: https://gitlab.com/acord-robotics
 project_one_icon: location_on
 
 project_two: Second Project
@@ -40,114 +40,44 @@ syntax_highlighting: true
 # Skill icons from https://konpa.github.io/devicon/
 
 skills:
-  - name: amazonwebservices
   - name: android
-  - name: angularjs
-  - name: apache
-  - name: appcelerator
   - name: apple
   - name: atom
-  - name: babel
-  - name: backbonejs
-  - name: bitbucket
-  - name: bootstrap
-  - name: bower
+  - name: bitbucke
   - name: c
-  - name: chrome
-  - name: codeigniter
-  - name: coffescript
-  - name: confluence
   - name: cplusplus
   - name: csharp
   - name: css3
-  - name: cucumber
-  - name: d3js
-  - name: debian
-  - name: devicon
-  - name: django
-  - name: docker
-  - name: doctrine
-  - name: dot-net
   - name: drupal
-  - name: erlang
   - name: facebook
   - name: firefox
-  - name: foundation
-  - name: gatling
-  - name: gimp
   - name: git
   - name: github
   - name: gitlab
-  - name: go
   - name: google
-  - name: gradle
-  - name: grunt
-  - name: gulp
-  - name: heroku
   - name: html5
-  - name: ie10
-  - name: illustrator
-  - name: inkscape
-  - name: itellij
-  - name: java
-  - name: jasmine
+  - name: jav
   - name: javascript
-  - name: laravel
-  - name: less
   - name: linux
-  - name: meteor
-  - name: mocha
-  - name: mongodb
-  - name: moodle
-  - name: mysql
-  - name: nginx
-  - name: nodejs
-  - name: nodewebkit
-  - name: oracle
-  - name: photoshop
   - name: php
-  - name: phpstorm
-  - name: protractor
-  - name: postgresql
   - name: python
   - name: pycharm
-  - name: rails
-  - name: react
-  - name: redhat
-  - name: redis
-  - name: ruby
-  - name: rubymine
-  - name: safari
-  - name: sass
-  - name: sequelize
   - name: slack
   - name: sourcetree
-  - name: ssh
-  - name: swift
-  - name: symfony
-  - name: tomcat
-  - name: travis
-  - name: trello
   - name: twitter
   - name: typescript
   - name: ubuntu
-  - name: vim
   - name: visualstudio
-  - name: vuejs
-  - name: webpack
-  - name: webstorm
   - name: windows8
   - name: wordpress
-  - name: yii
-  - name: zend
 
 icon_size: 50 # font-size of icons in px
 colored: colored # Leave blank for black and white icons
 
 project_button: Github
 
-github: https://github.com/jameshamann/jekyll-material-theme
-medium: https://medium.com
+github: https://github.com/IrisDroidology
+medium: https://medium.com/acord-robotics
 
 baseurl: # if your site is located at /blog or /home, enter it here, otherwise leave it empty
 url: http://localhost:4000/ #the url of your site
