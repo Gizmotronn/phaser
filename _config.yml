@@ -59,7 +59,7 @@ skills:
   - name: visualstudio
 
 icon_size: 40 # font-size of icons in px
-colored:  # Leave blank for black and white icons and colored for coloured icons
+colored: colored # Leave blank for black and white icons and colored for coloured icons
 
 project_button: Github
 
