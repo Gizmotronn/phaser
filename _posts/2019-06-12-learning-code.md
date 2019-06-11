@@ -44,3 +44,29 @@ if (7 > 4) {
 
 // Outputs "Yes"
 ```
+
+Else Statement Syntax:
+```c++
+if (condition) {
+  //statements
+}
+else {
+ //statements
+}
+```
+
+# Other languages I know
+I have experience in Python, especially in creating text-based games (for example Pythons of Mars). I hope to expand my knowledge of Python after completing C++ & C#.
+
+# Thanks for reading
+This post is just one of many on this site. Why not check out more while you're here? Check out the rest of [my blog.](http://irisdroidology.github.io/opus/#blog
+
+ACORD, my robotics company, is a not-for-profit and we're currently working on a robot to reduce suicide levels in teenagers with disabilities. Why not support us? Check out [our patreon](http://acord.tech/support-us)
+
+I'm a high school student and I'm about to go into university. I build websites for a living, and why not get one from me? It will at least help me when I'm at uni - [support me](http://acord.tech/support-limo).
+
+And finally, thanks so much for reading this post. The best way to get quality content like this shared is for you to share it, so why not post this on facebook and twitter!
+
+See you soon,
+
+- Limo (Opus) - forever in the stars
