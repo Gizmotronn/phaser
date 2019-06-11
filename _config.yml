@@ -14,7 +14,7 @@ parallax_image_two: assets/images/startup3.jpg
 project_one: "Stellarios"
 project_one_description: by ACORD Robotics
 project_one_url: https://gitlab.com/acord-robotics
-project_one_icon: location_on
+project_one_icon: /assets/images/laptop.png
 
 project_two: Second Project
 project_two_description: Describe your project!
