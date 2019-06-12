@@ -49,6 +49,8 @@ When I decided I wanted to get into football, I decided to join a bunch of Evert
 
 Digne and Richarlison both scored goals in the second half, creating a boxing-day demolition of 5-1. But the first game I watched live was against Leicester City, in Brooklyn, was a 1-0 loss. I watched us lose against Brighton & Hove Albion. The first game I saw us win live was against Bournemouth when I was in San Francisco. I set my alarm to wake me up at 5.30, but I slept through it and I only woke up at 6.30, when the game was in the 60th minute (Kurt Zouma had scored). It took me 20  more minutes to find the stream, but I saw the last 10 minutes when Domenic Calvert-Lewin scored in the last 10 seconds. It was a good day. That night I bought my first Everton kit, the 2007-08 kit, and it arrived a few days after I arrived back in Australia.
 
+![image-title-here](https://cdn.hitc-s.com/i/1379/kurt_zouma_of_everton_l_celebrates_his_goal_during_the_premier_l_1157155.jpg)
+
 The only match I've watched live while being in Australia was against Manchester United. I'd just set up my new PC (I'll do a post about that tomorrow), and I watched - and cheered loudly at 11pm - us put 4 against United's David De Gea. 
 
 I hope to watch more games this season, and I hope to maybe go to a game in the near future.
