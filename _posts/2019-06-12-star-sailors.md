@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: Writing Science Fiction
 date: 2019-06-12 09:02:11 
 image: https://www.wallpaperup.com/uploads/wallpapers/2015/11/09/832612/dd41ed863c74a5517c1246d2cc4a29a1-700.jpg
