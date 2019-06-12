@@ -17,7 +17,7 @@ Last season, Everton won 15 games, drew 9, and lost 14, compared to 13 wins, 10 
 
 Apart from those minor blips, we were flying in the last rounds of the season - 4-0 against Man United, 1-0 against Arsenal, and 2-0 against Chelsea being some big highlights. We even kept Liverpool to a 0-0 draw at the derby at Goodison, which meant that Liverpool didn't win the league title. Richarlison & Sigurdsson continued their stellar season, both players slotting 13 goals in the premier league. For a club that finished 8th on the table, to have 2 players kick 28 goals in all competitions between them is really good. Dominic Calvert-Lewin (#29) kicked a few as well and definitely came of age last season.
 
-![image-title-here](https://cdn.vox-cdn.com/thumbor/uKiXdDEv8KNIZoJi4nMU2JLF1TE=/0x0:3000x2046/1200x800/filters:focal(1410x155:1890x635)/cdn.vox-cdn.com/uploads/chorus_image/image/63647928/1144143645.jpg.5.jpg){:class="img-responsive"}
+![image-title-here](https://cdn.vox-cdn.com/thumbor/uKiXdDEv8KNIZoJi4nMU2JLF1TE=/0x0:3000x2046/1200x800/filters:focal(1410x155:1890x635)/cdn.vox-cdn.com/uploads/chorus_image/image/63647928/1144143645.jpg.5.jpg){:height="700px" width="900px"}
 
 It was really hard watching Everton in the festive period. Apart from a 5-1 win against Burnley on Boxing Day (I was in New York at the time and streamed the match at a cafe) and a 2-0 win against Bournemouth, we played horribly, losing to Brighton and to Leicester City. We hovered around 11-12th during the festive season, and many supporters on Facebook talked about how we were going backwards. It definitely looked like it.
 
