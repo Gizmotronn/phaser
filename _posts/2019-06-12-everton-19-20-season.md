@@ -41,7 +41,19 @@ We kicked 14 goals in 6 games at home at the end of the season. We turned Goodis
 Overall, I think we took great steps in the 2018-19 season. But more has to be done.
 
 # Everton & Me
-I am a proud toffee supporter. I am also a proud supporter of all great Australian sportsmen and women, as Australia has very few of these. So when I joined my soccer (oops, sorry, football)-obsessed high school, I was asked what team I supported. 
+I am a proud toffee supporter. I am also a proud supporter of all great Australian sportsmen and women, as Australia has very few of these. So when I joined my soccer (oops, sorry, football)-obsessed high school, I was asked what team I supported. Tim Cahill is an Australian former footballer, but at the time he had just left Everton, after being with them for 9 years (having come from Milwall in 2004 for a 1.5 million pound fee). He was much-loved at the Blues, so I became a fan.
+
+But it wasn't until last year that I started following the games and looking at the stats. I still said to everyone that my team was Everton, but I didn't know any of our players or any of our history.
+
+When I decided I wanted to get into football, I decided to join a bunch of Everton Facebook Groups. I started watching some replays of matches (the first one I watched was the 2-1 win against Leicester City in November). When I was in the US, I got off the plane from Hong Kong (stop-over) to New York and immediately my phone was bombarded with notifications - Everton had lost to the Spurs 6-2. A few days later, I was at an internet cafe having breakfast, and I watched the live "feed" of the commentary of the game between Everton and Burnley at Turf Moor.  Suddenly, Yerry Mina scored his first goal for Everton inside 2 minutes. Then Lucas Digne scored a brilliant free kick goal, and Gylfi Sigurdsson scored from the penalty spot. We were up 3-0 before half-time.
+
+Digne and Richarlison both scored goals in the second half, creating a boxing-day demolition of 5-1. But the first game I watched live was against Leicester City, in Brooklyn, was a 1-0 loss. I watched us lose against Brighton & Hove Albion. The first game I saw us win live was against Bournemouth when I was in San Francisco. I set my alarm to wake me up at 5.30, but I slept through it and I only woke up at 6.30, when the game was in the 60th minute (Kurt Zouma had scored). It took me 20  more minutes to find the stream, but I saw the last 10 minutes when Domenic Calvert-Lewin scored in the last 10 seconds. It was a good day. That night I bought my first Everton kit, the 2007-08 kit, and it arrived a few days after I arrived back in Australia.
+
+The only match I've watched live while being in Australia was against Manchester United. I'd just set up my new PC (I'll do a post about that tomorrow), and I watched - and cheered loudly at 11pm - us put 4 against United's David De Gea. 
+
+I hope to watch more games this season, and I hope to maybe go to a game in the near future.
+
+# Watching the A-League
 
 # Everton's new stadium:
 
