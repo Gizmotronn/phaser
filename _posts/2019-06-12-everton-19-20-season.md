@@ -75,7 +75,44 @@ We play each team home and away in the league. I'm going to go through each team
 * Leicester City - win (home), loss (away)
 * Aston Villa (Promoted from Fl Championship) - win x2
 * Brighton - win (home), draw (away)
-* Bournemouth - win (home), draw (away)
+* Bournemouth - win x2
+* Arsenal - draw x2
+* Liverpool - draw (home), loss (away)
+* Crystal Palace - win (home), loss (away)
+* Chelsea - win (home), draw (away)
+* Brighton - win x2
+* Newcastle - win x2
+* Spurs - draw x2
+* Norwich City (Promoted from FL Championship) - win x2
+* Wolverhampton Wanderers - draw (home), loss (away)
+* Shefield United (Promoted from FL Championship) - win x2
+
+In total:
+* 19 wins
+* 8 draws
+* 11 losses
+* 65 points
+
+According to my predictions, we would finish 7th, possibly 6th, according to the 2018-19 Premier League Season. There are many games that I have predicted to go the same way as last season, even though I have already talked about that. An example is Crystal Palace - I said we should have beaten them away last season, but I see us losing to them away this year. 
+
+It is vital to turn Goodison Park into a fortress for its last few years before our new stadium is unveiled. We saw how dangerous we could be there at the end of the season. We could potentially win 10 or more home games - I forsee the majority of our away wins coming against lower-tier teams or midtable teams. The fixtures for this season will be released tomorrow - 13th June 2019.
+
+## Other predictions for 2018-19 season
+* Title Winner: Manchester City
+* Carabao Cup Winner: Wolves
+* FA Cup: Manchester City
+
+Top 7 PL Season:
+* Man City
+* Liverpool
+* Arsenal
+* Spurs
+* Man United
+* Chelsea
+* Everton
+
+* Everton most goals: Richarlison de Andrae - 18
+* Everton captain - Seamus Coleman (#23)
 
 # Watching the A-League
 To get into football, I went to a few A-League games with my mates from my football club (Australian Rules football). Perth Glory is the local team over here, and although I support Melbourne City (where I was born), I still love watching Perth. I saw Perth Glory win the A-League 2018-19 league title against Newcastle United, and I was at the A-League Grand Final (Perth Glory vs. Sydney FC) where the Glory lost. It is such a great atmosphere at the ground, even though there are usually only 12,000 people at the matches over here at HBF/nib stadium.
