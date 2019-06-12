@@ -29,10 +29,20 @@ project_three_icon: photo_camera
 
 project_four: Mushlantis - A Minecraft World
 project_four_description: Mushlantis is a world in Minecraft that I've been playing for three years. I post videos on Mushlantis once a week and am currently working on building a village in a Mushroom Biome.
-project_three_url: http://gitlab.com/irisdroidology/minecraft-mushlantos
+project_four_url: http://gitlab.com/irisdroidology/minecraft-mushlantos
 project_four_icon: photo_camera
 
-portfolio_heading: Portfolio
+project_five: My Computer
+project_five_description: My Gaming/Code PC has 16gb RAM, an Nvidea 1070ti, Intel i5, and a 27 inch AOC monitor. I create my youtube videos and my code projects on it.
+project_five_url: http://acord.tech/my-pc
+project_four_icon: photo_camera
+
+project_six: My Writing
+project_six_description: I've always loved writing. Here's a link to all my writing
+project_six_url: http://acord.tech/limo-s-writing
+project_six_icon: photo_camera
+
+portfolio_heading: Code Portfolio
 portfolio_type: cards #cards or carousel
 
 syntax_highlighting: true
