@@ -56,7 +56,9 @@ The only match I've watched live while being in Australia was against Manchester
 I hope to watch more games this season, and I hope to maybe go to a game in the near future.
 
 # Watching the A-League
+I saw Perth Glory win the A-League 2018-19 league title:
 
+![image-title-here](https://www.a-league.com.au/sites/aleague/files/2019-04/vvvv.jpg)
 # Everton's new stadium:
 
 Architect Dan Meis is in charge of the design and the first public consultation received overwhelming support from the people of Liverpool. A PDF document containing the leaked images of the reported new site were obtained by supporter’s website Everton Aren’t We, who posted the pictures on Friday.
