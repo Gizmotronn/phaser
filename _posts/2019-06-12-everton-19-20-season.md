@@ -55,8 +55,30 @@ The only match I've watched live while being in Australia was against Manchester
 
 I hope to watch more games this season, and I hope to maybe go to a game in the near future.
 
+# 2019-20 Season
+## The Kits
+The home, away and third kits are due to be revealed in the week leading up to our July 7th clash with teams in Kenya. Please, please Everton, bring back the 1985-86 kit!
+
+## FA Cup & Carabao Cup
+For this season to be a pass, not only do we need to finish higher than 8th (and win games that we should against teams like Fulham), we need to have a decent cup run. We crashed out in the 2 cups last season, on penalties against Southampton and against Milwall - a second division team in the FL Championship. Cups are easy to win - Watford made the FA Cup, and they finished below us. Even second division teams can occasionally have a good run - Lincoln & Milwall being examples.
+
+I want us to reach at least round 4 of each cup. And please, Everton, don't lose to Milwall again.
+
+## Premier League
+We play each team home and away in the league. I'm going to go through each team, listing who I think we'll beat, draw or lose to.
+
+* Manchester City - loss x2
+* Manchester United - loss (away), win (home)
+* Watford - win (home), loss (away)
+* Burnley - win x2
+* West Ham - win (home), loss (away)
+* Leicester City - win (home), loss (away)
+* Aston Villa (Promoted from Fl Championship) - win x2
+* Brighton - win (home), draw (away)
+* Bournemouth - win (home), draw (away)
+
 # Watching the A-League
-I saw Perth Glory win the A-League 2018-19 league title:
+To get into football, I went to a few A-League games with my mates from my football club (Australian Rules football). Perth Glory is the local team over here, and although I support Melbourne City (where I was born), I still love watching Perth. I saw Perth Glory win the A-League 2018-19 league title against Newcastle United, and I was at the A-League Grand Final (Perth Glory vs. Sydney FC) where the Glory lost. It is such a great atmosphere at the ground, even though there are usually only 12,000 people at the matches over here at HBF/nib stadium.
 
 ![image-title-here](https://www.a-league.com.au/sites/aleague/files/2019-04/vvvv.jpg){:height="700px" width="900px"}
 # Everton's new stadium:
