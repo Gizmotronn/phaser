@@ -13,7 +13,7 @@ layout: medium-feed
 
 <div id="medium-widget"></div>
     <script src="https://medium-widget.pixelpoint.io/widget.js"></script>
-    <script>MediumWidget.Init({renderTo: '#medium-widget', params: {"resource":"https://medium.com/@OpusTheRobot","postsPerLine":1,"limit":10,"picture":"big","fields":["description","author","publishAt"],"ratio":"landscape"}})</script>
+    <script>MediumWidget.Init({renderTo: '#medium-widget', params: {"resource":"http://medium.com/@OpusTheRobot","postsPerLine":2,"limit":10,"picture":"big","fields":["description","author","claps","likes","publishAt"],"ratio":"landscape"}})</script>
 
 
 {% for e in site.medium_posts %}
