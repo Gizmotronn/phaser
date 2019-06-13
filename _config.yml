@@ -2,8 +2,8 @@
 title: OpusTheRobot
 timezone: Australia/Perth
 collections:
-  medium_posts:
-    title: Medium Posts
+  external_feed:
+    title: External Feed
     output: false
   posts:
     title: Posts
@@ -94,6 +94,3 @@ plugins:
 - jekyll-feed
 - jekyll-assets
 - jekyll-minifier
-
-collections:
-  - external_feed
