@@ -21,7 +21,6 @@ group :jekyll_plugins do
   gem "jekyll-minifier"
   gem "jekyll-display-medium-posts"
 end  
-end
 
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
