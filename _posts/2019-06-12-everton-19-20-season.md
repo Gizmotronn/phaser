@@ -1,7 +1,7 @@
 ---
-layout: post
 title: Everton's next season
-date: 2019-06-12 10:11:16
+date: 2019-06-12 10:11:16 Z
+layout: post
 image: https://i2-prod.liverpoolecho.co.uk/incoming/article14473773.ece/ALTERNATES/s615/JS115156827.jpg
 ---
 

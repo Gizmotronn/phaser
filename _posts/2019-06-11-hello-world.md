@@ -1,10 +1,10 @@
 ---
+title: Hello World!
+date: 2019-06-11 21:15:05 Z
 layout: post
-title:  "Hello World!"
-date:   2019-06-11 21:15:05 +0000
 image: https://www.anysoftwaretools.com/wp-content/uploads/macbook-pro-monitor-keyboard-iphone.png
-
 ---
+
 Hi there! My name is Liam, also known as OpusTheRobot. I'm an Australian game and website developer. This website is home to all my projects that I'm working on as well as my personal blog. I'll also be talking about my youtube stuff here.
 
 # Youtube

@@ -1,7 +1,7 @@
 ---
-layout: post
 title: Learning Coding Languages
-date: 2019-06-12 19:15:11 +8
+date: 2019-06-12 11:15:11 Z
+layout: post
 image: https://static.makeuseof.com/wp-content/uploads/2018/11/dark-wallpapers-670x335.jpg
 ---
 
