@@ -5,6 +5,7 @@ date: 2019-06-13 11:28:00 +08:00
 
 # Building My Development Portfolio
 
+H
 I've created websites with Wordpress, Drupal, and Wix since 2016, however at the end of last year I decided that I wanted to go into robotics and game design. To do this, I decided to learn some more coding languages. I'm currently going through some courses on C++ and at school I'm learning C#. I hope to share my progress on this site.
 Sololearn
 Sololearn is a free-to-use site that hosts coding tutorials on many languages, including:
