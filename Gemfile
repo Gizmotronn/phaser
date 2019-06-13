@@ -12,6 +12,7 @@ gem "rack-jekyll"
 gem "pry"
 gem "puma"
 gem "feedjira"
+gem 'jekyll-display-medium-posts', '~> 0.4.1'
 
 
 group :jekyll_plugins do
