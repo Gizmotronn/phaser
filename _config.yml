@@ -4,7 +4,7 @@ timezone: Australia/Perth
 collections:
   medium_posts:
     title: Medium Posts
-    output: false
+    output: true
   posts:
     title: Posts
     output: true
@@ -82,7 +82,7 @@ skills:
 icon_size: 35
 colored: colored
 github: https://github.com/IrisDroidology
-medium: https://medium.com/@limodroid
+medium: https://medium.com/@OpusTheRobot
 tag_manager_id: 
 google_analytics_tracking_id: 
 cookies_banner: none
