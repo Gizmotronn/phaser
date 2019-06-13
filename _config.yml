@@ -4,7 +4,7 @@ timezone: UTC
 collections:
   medium_posts:
     title: Medium Posts
-    output: false
+    output: true
   posts:
     title: Posts
     output: true
