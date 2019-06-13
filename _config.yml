@@ -94,3 +94,6 @@ plugins:
 - jekyll-feed
 - jekyll-assets
 - jekyll-minifier
+
+collections:
+  - medium_posts
