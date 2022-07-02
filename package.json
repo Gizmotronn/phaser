@@ -1,0 +1,12 @@
+{
+  "name": "pokedemo",
+  "version": "1.0.0",
+  "description": "A simple phaser game with pokemon elements. Will later be used in SK's web3 minigame collection",
+  "main": "index.js",
+  "repository": "https://github.com/signal-k",
+  "author": "Signal Kinetics PTY LTD, Liam Arbuckle",
+  "license": "MIT",
+  "dependencies": {
+    "phaser": "^3.55.2"
+  }
+}
